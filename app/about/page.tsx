@@ -146,7 +146,7 @@ className="group relative h-[2240px] w-[380px] cursor-pointer select-none [persp
               <CardFront />
             </div>
             {/* BACK */}
-            <div className="absolute inset-0 grid rotate-y-180 place-items-center [backface-visibility:hidden]">
+            <div className="absolutse inset-0 grid rotate-y-180 place-items-center [backface-visibility:hidden]">
               <CardBack />
             </div>
           </motion.div>
